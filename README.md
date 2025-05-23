@@ -1,4 +1,3 @@
-# 🌐 Vemency Agency
 ![Logo](https://i.imgur.com/MSaKylX.png)
 
 **A Vemency Agency** é uma agência especializada em soluções modernas de desenvolvimento web. Transformamos ideias em experiências digitais de alta performance, com foco em design, usabilidade e performance.
